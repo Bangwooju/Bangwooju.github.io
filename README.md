@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-방우주의 홈페이지 ok!
+[방우주](my-intro.md)의 홈페이지 ok!
 
 You can use the [editor on GitHub](https://github.com/Bangwooju/Bangwooju.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
